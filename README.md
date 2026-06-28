@@ -1,6 +1,8 @@
-# Hi, I'm Sadam Hussain Safi 👋
-
 <div align="center">
+  <img src="./sadam.jpeg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Sadam Hussain Safi"/>
+  
+  # Hi, I'm Sadam Hussain Safi 👋
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Founder+%26+CEO+at+Aria+Tech+Solutions;Problem+Solver" alt="Typing SVG" />
 </div>
 
